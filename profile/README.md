@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vanguard-Neural-Systems/.github/main/profile/logo.png" width="150" height="150" alt="VNS Logo">
   <h1>🛡️ Vanguard Neural Systems (VNS)</h1>
   <p><b>Engineering the Next Generation of Autonomous Reasoning & Quality Orchestration</b></p>
 
